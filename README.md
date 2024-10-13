@@ -8,12 +8,12 @@
 #### This contract is a simple implementation written in Solidity, a programming language for smart contracts on the Ethereum blockchain. The contract includes two key functions: mint, which allows the creation of tokens, and burn, which allows the destruction of tokens. The contract tracks the total supply of tokens and the balance of tokens for each user.
 
 ## Getting Started
-### Executing the Program
+#### Executing the Program
 #### To run this program, you can use Remix, an online Solidity IDE. To get started, follow these steps:
 #### Open the Remix IDE at https://remix.ethereum.org.
 #### In the left-hand sidebar, click the "+" button to create a new file. Save the file with a .sol extension (e.g., MyToken.sol).
 #### Copy and paste the following Solidity code into the new file:
-// SPDX-License-Identifier: MIT
+##### // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
 contract MyToken {
