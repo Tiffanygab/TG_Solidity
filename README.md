@@ -1,4 +1,4 @@
-\# MyToken Smart Contract
+# MyToken Smart Contract
 
 ## Create a Token
 
